@@ -4,5 +4,4 @@ ja:
       user:
         name: "お名前"
         password: "パスワード"
-        password_confirmation: "パスワード確認"
         email: "メールアドレス"
